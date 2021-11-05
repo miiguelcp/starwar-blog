@@ -9,7 +9,7 @@ import { SinglePeople, SinglePlanet, SingleVehicle } from "./views/single";
 import { Navbar } from "./component/navbar";
 import { Footer } from "./component/footer";
 
-import AppContextProvider from "./store/AppContext";
+import AppContextProvider from "./store/appContext";
 
 //create your first component
 const Layout = () => {

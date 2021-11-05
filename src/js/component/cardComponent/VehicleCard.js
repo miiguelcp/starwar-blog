@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
-import { AppContext } from "../../store/AppContext";
+import { AppContext } from "../../store/appContext";
 
 const image = "https://brandemia.org/contenido/subidas/2021/05/portada-starwars-imagenes-brandemia-blog-1000x670.jpg";
 
